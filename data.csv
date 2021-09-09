@@ -16,8 +16,7 @@ Sweet-Mellow,Mellow,
 Sweet-Acidy,Acidy,
 Sour-Winey,Winey,
 Sour-Soury,Soury,
-Citizen-Floral,Floral,Citizen
-Citizen-Fragrant,Fragrant,Citizen
+documented,Documented,Citizen
 Fruity-Citrus,Citrus,Enzymatic-Fruity
 Fruity-Berry-like,Berry-like,Enzymatic-Fruity
 Herby-Alliaceous,Alliaceous,Enzymatic-Herby
@@ -50,8 +49,8 @@ Winey-Tangy,Tangy,Sour-Winey
 Winey-Tart,Tart,Sour-Winey
 Soury-Hard,Hard,Sour-Soury
 Soury-Acrid,Acrid,Sour-Soury
-Floral-Coffee Blossom,Coffee Blossom,Citizen-Floral
-Floral-Tea Rose,Tea Rose,Citizen-Floral
+Floral-Coffee Blossom,Coffee Blossom,documented
+Floral-Tea Rose,Tea Rose,documented
 Fragrant-Cardamon Caraway,Cardamon Caraway,Citizen-Fragrant
 Fragrant-Coriander Seeds,Coriander Seeds,Citizen-Fragrant
 Citrus-Lemon,Lemon,Fruity-Citrus
