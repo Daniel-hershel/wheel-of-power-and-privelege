@@ -15,7 +15,7 @@ Salt-Bland,Bland,
 Sweet-Mellow,Mellow,
 Sweet-Acidy,Acidy,
 Sour-Winey,Winey,
-Sour-Soury,Soury,
+Slim,Slim,
 Flowery-Floral,Floral,Enzymatic-Flowery
 Flowery-Fragrant,Fragrant,Enzymatic-Flowery
 Fruity-Citrus,Citrus,Enzymatic-Fruity
@@ -48,8 +48,8 @@ Acidy-Nippy,Nippy,Sweet-Acidy
 Acidy-Piquant,Piquant,Sweet-Acidy
 Winey-Tangy,Tangy,Sour-Winey
 Winey-Tart,Tart,Sour-Winey
-Soury-Hard,Hard,Sour-Soury
-Soury-Acrid,Acrid,Sour-Soury
+Soury-Hard,Hard,Slim
+Soury-Acrid,Acrid,Slim
 Floral-Coffee Blossom,Coffee Blossom,Flowery-Floral
 Floral-Tea Rose,Tea Rose,Flowery-Floral
 Fragrant-Cardamon Caraway,Cardamon Caraway,Flowery-Fragrant
