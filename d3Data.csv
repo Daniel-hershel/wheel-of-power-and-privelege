@@ -1,0 +1,49 @@
+ids,parentId,size
+Slim,,1
+Robust,,1
+Neuro-typical,,1
+Hetero-sexual,,1
+Able-bodied,,1
+Post-secondary,,1
+White,,1
+Citizen,,1
+cisgender man,,1
+English,,1
+Rich,,1
+Owns proprerty,,1
+Average,Slim,1
+Mostly Stable,Robust,1
+Some Neuro-divergence,Neuro-typical,1
+Gay men,Hetero-sexual,1
+Some disability,Able-bodied,1
+High School education,Post-secondary,1
+Different shades,White,1
+Documented,Citizen,1
+cisgender woman,cisgender man,1
+Learned English,English,1
+Middle class,Rich,1
+sheltered/renting,Owns proprerty,1
+Large,Average,1
+Vulnerable,Mostly Stable,1
+Significant neurodivergence,Some Neuro-divergence,1
+"Lesbian, Bi, Pan, Asexual",Gay men,1
+Significant disability,Some disability,1
+Elementary education,High School education,1
+Dark,Different shades,1
+Undocumented,Documented,1
+"Trans, intersex, Non-binary",cisgender woman,1
+Non-English monolingual,Learned English,1
+Poor,Middle class,1
+Homeless,sheltered/renting,1
+Body Size,Large,1
+Mental Health,Vulnerable,1
+Neuro-diversity,Significant neurodivergence,1
+Sexuality,"Lesbian, Bi, Pan, Asexual",1
+Ability,Significant disability,1
+Formal Education,Elementary education,1
+Skin Color,Dark,1
+Citizenship,Undocumented,1
+Gender,"Trans, intersex, Non-binary",1
+Language,Non-English monolingual,1
+Wealth,Poor,1
+Housing,Homeless,1
