@@ -1,0 +1,25 @@
+ids,labels,parents
+Slim,Slim,
+Robust,Robust,
+Neuro-typical,Neuro-typical,
+Hetero-sexual,Hetero-sexual,
+Able-bodied,Able-bodied,
+Post-secondary,Post-secondary,
+White,White,
+Citizen,Citizen,
+cisgender man,cisgender man,
+English,English,
+Rich,Rich,
+Owns proprerty,Owns proprerty,
+Average,Average,Slim
+Mostly Stable,Mostly Stable,Robust
+Some Neuro-divergence,Some Neuro-divergence,Neuro-typical
+Gay men,Gay men,Hetero-sexual
+Some disability,Some disability,Able-bodied
+High School education,High School education,Post-secondary
+Different shades,Different shades,White
+Documented,Documented,Citizen
+cisgender woman,cisgender woman,cisgender man
+Learned English,Learned English,English
+Middle class,Middle class,Rich
+sheltered/renting,sheltered/renting,Owns proprerty
